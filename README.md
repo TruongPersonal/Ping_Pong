@@ -14,7 +14,7 @@ Ping Pong is a simple game that simulates the classic table tennis experience. P
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ngoquangtruong-personal/Ping_Pong.git
+   git clone https://github.com/TruongPersonal/Ping_Pong.git
    ```
 2. Install the required libraries:
     - if you are using Windows:
@@ -35,6 +35,6 @@ Ping Pong is a simple game that simulates the classic table tennis experience. P
     python3 main.py
     ```
 ## Notes
-- Ensure that you have Python installed (version 3.6 or later) on your system before running the game.
+- Ensure that you have Python installed (version 3.12 or later) on your system before running the game.
 - If you encounter any issues while installing `pygame`, make sure to check your Python and pip versions.
 - Feel free to contribute to the project by reporting bugs or suggesting features!
