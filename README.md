@@ -34,6 +34,10 @@ Ping Pong is a simple game that simulates the classic table tennis experience. P
     ```bash
     python3 main.py
     ```
+
+## Preview
+![Gameplay](./videos/Game_demo.gif)
+
 ## Notes
 - Ensure that you have Python installed (version 3.12 or later) on your system before running the game.
 - If you encounter any issues while installing `pygame`, make sure to check your Python and pip versions.
